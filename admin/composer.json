@@ -20,8 +20,6 @@
         "yiisoft/yii2-swiftmailer": "~2.0.0 || ~2.1.0",
         "mdmsoft/yii2-admin": "~2.0",
         "dmstr/yii2-adminlte-asset": "2.*",
-        "johnnylei/jstree": "^1.1",
-        "leandrogehlen/yii2-treegrid": "*"
     },
     "require-dev": {
         "yiisoft/yii2-debug": "~2.0.0",
@@ -39,7 +37,7 @@
     "repositories": [
         {
             "type": "composer",
-            "url": "https://packagist.phpcomposer.com"
+            "url": "https://asset-packagist.org/"
         }
     ]
 }
